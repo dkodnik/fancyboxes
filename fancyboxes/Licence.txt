@@ -1,6 +1,6 @@
 /*  * Плагин FancyBoxes под CMF Cotonti Copyright (c) 2015 Roffun | http://olro.net/blog/blog-internet/fancyboxes-plugin-cotonti
     * с использованием скрипта fancyBox (c) 2012 Janis Skarnelis | fancyapps.com/fancybox/#license
-    * 
+    * а также скрипта jScale Image Scaler | JavaScript Kit at http://www.javascriptkit.com/
     * Все права защищены.
     *
     * Разрешается повторное распространение и использование как в виде исходного кода, так и в
@@ -31,6 +31,7 @@
   
     * Plugin FancyBoxes for CMF Cotonti Copyright (c) 2015 Roffun | http://olro.net/blog/blog-internet/fancyboxes-plugin-cotonti
     * using a script fancyBox (c) 2012 Janis Skarnelis | fancyapps.com/fancybox/#license
+    * and script jScale Image Scaler | JavaScript Kit at http://www.javascriptkit.com/
     *
     * All rights reserved.
     *
