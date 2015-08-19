@@ -11,7 +11,7 @@ Hooks=rc
  * @package fancyboxes
  * @version 1.0
  * @author Roffun
- * @copyright (c) 2015 Roffun | http://olro.net/blog/blog-internet/fancyboxes-plugin-cotonti
+ * @copyright (c) 2015 Roffun | http://cowr.ru/articles/blog-internet/fancyboxes-plugin-cotonti
  * @license BSD
  */
 
