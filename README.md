@@ -3,7 +3,7 @@
 
 
 
-Подробное описание: http://cowr.ru/articles/blog-internet/fancyboxes-plugin-cotonti
+Подробное описание: http://cowr.info/articles/blog-internet/fancyboxes-plugin-cotonti
 
 
-С помощью плагина fancyboxes выводится окно авторизации и регистрации на сайте http://cowr.ru/
+С помощью плагина fancyboxes выводится окно авторизации и регистрации на сайте http://cowr.info/
