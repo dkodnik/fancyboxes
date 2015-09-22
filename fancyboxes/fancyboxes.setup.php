@@ -3,9 +3,10 @@
 [BEGIN_COT_EXT]
 Code=fancyboxes
 Name=FancyBoxes
+Category=files-media
 Description=FancyBoxes - галерея на базе JQuery + fancyBox и jScale Image Scaler
-Version=1.0
-Date=28-06-2015
+Version=1.0 
+Date=28-06-2015( обновлено <i>22.09.2015</i> )
 Author=Roffun
 Copyright=Cotonti plugin: (c) 2015 Roffun | https://github.com/roffun/fancyboxes<br>Script fancyBox: (c) 2012 Janis Skarnelis | www.fancyapps.com/fancybox/#license<br>Script jScale Image Scaler: JavaScript Kit | http://www.javascriptkit.com/
 Notes=BSD License
