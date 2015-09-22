@@ -7,7 +7,7 @@ Description=FancyBoxes - галерея на базе JQuery + fancyBox и jScal
 Version=1.0
 Date=28-06-2015
 Author=Roffun
-Copyright=Cotonti plugin: (c) 2015 Roffun | http://cowr.info/articles/blog-internet/fancyboxes-plugin-cotonti<br>Script fancyBox: (c) 2012 Janis Skarnelis | www.fancyapps.com/fancybox/#license<br>Script jScale Image Scaler: JavaScript Kit | http://www.javascriptkit.com/
+Copyright=Cotonti plugin: (c) 2015 Roffun | https://github.com/roffun/fancyboxes<br>Script fancyBox: (c) 2012 Janis Skarnelis | www.fancyapps.com/fancybox/#license<br>Script jScale Image Scaler: JavaScript Kit | http://www.javascriptkit.com/
 Notes=BSD License
 Auth_guests=R
 Lock_guests=W12345A
@@ -32,7 +32,7 @@ css=99:radio:0,1:1:Enable plugin CSS
  * @package fancyboxes
  * @version 1.0
  * @author Roffun
- * @copyright (c) 2015 Roffun | http://cowr.info/articles/blog-internet/fancyboxes-plugin-cotonti
+ * @copyright (c) 2015 Roffun | https://github.com/roffun/fancyboxes
  * @license BSD
  */
 
