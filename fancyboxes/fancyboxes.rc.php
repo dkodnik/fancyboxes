@@ -6,12 +6,10 @@ Hooks=rc
 ==================== */
 
 /**
- * FancyBoxes plugin
+ * fancyBoxes plugin
  *
- * @package fancyboxes
- * @version 1.0
- * @author Roffun
- * @copyright (c) 2015 Roffun | https://github.com/roffun/fancyboxes
+ * @author roffun
+ * @copyright (c) 2015 vseweb.com
  * @license BSD
  */
 

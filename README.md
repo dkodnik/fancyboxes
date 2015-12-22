@@ -1,6 +1,7 @@
-# fancyboxes
- jQuery Plugin for Cotonti based on the fancyBox script
+# ПЛАГИН «FANCYBOXES» CMF COTONTI
 
-Подробное описание: http://cowr.info/articles/blog-internet/fancyboxes-plugin-cotonti
+Copyright(c) 2015 roffun
 
-Copyright (c) 2015, Roffun | https://github.com/roffun/fancyboxes 
+Fancyboxes - плагин под Cotonti , с помощью которого можно превратить просмотр изображений и мультимедиа в эффективную демонстрацию с удобным  переключением. Плагин fancyboxes включает в себя несколько скриптов, с помощью которых просмотр изображений и мультимедийных файлов (флеш игры, видео и тд) становится увлекательным и интуитивно понятным.
+
+Подробное описание: http://vseweb.com/cotonti/extensions/fancyboxes-plugin-cotonti

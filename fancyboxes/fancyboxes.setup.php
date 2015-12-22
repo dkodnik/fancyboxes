@@ -5,10 +5,10 @@ Code=fancyboxes
 Name=FancyBoxes
 Category=files-media
 Description=FancyBoxes - галерея на базе JQuery + fancyBox и jScale Image Scaler
-Version=1.0 
-Date=28-06-2015( обновлено <i>22.09.2015</i> )
-Author=Roffun
-Copyright=Cotonti plugin: (c) 2015 Roffun | https://github.com/roffun/fancyboxes<br>Script fancyBox: (c) 2012 Janis Skarnelis | www.fancyapps.com/fancybox/#license<br>Script jScale Image Scaler: JavaScript Kit | http://www.javascriptkit.com/
+Version=1.1 
+Date=28-06-2015( обновлено <i>20.12.2015</i> )
+Author=roffun
+Copyright=Copyright (c) 2015 vseweb.com
 Notes=BSD License
 Auth_guests=R
 Lock_guests=W12345A
@@ -28,12 +28,10 @@ css=99:radio:0,1:1:Enable plugin CSS
 ==================== */
 
 /**
- * FancyBoxes plugin
+ * fancyBoxes plugin
  *
- * @package fancyboxes
- * @version 1.0
- * @author Roffun
- * @copyright (c) 2015 Roffun | https://github.com/roffun/fancyboxes
+ * @author roffun
+ * @copyright (c) 2015 vseweb.com
  * @license BSD
  */
 
