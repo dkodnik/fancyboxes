@@ -8,8 +8,8 @@ Hooks=rc
 /**
  * fancyBoxes plugin
  *
- * @author roffun
- * @copyright (c) 2015 vseweb.com
+ * @author  Roffun
+ * @copyright Copyright (c) Roffun | https://github.com/Roffun/fancyboxes
  * @license BSD
  */
 

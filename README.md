@@ -104,4 +104,4 @@
 
 <p><a href="http://www.javascriptkit.com/script/script2/jscale/index.shtml">Скрипт jScale Image Scaler</a></p>
 
-Copyright(c) 2015 - 2016 roffun
+Copyright (c) 2015 - today Roffun | https://github.com/Roffun/fancyboxes

@@ -2,10 +2,8 @@
 /**
  * FancyBoxes plugin
  *
- * @package fancyboxes
- * @version 1.0
- * @author Roffun
- * @copyright (c) 2015 Roffun | https://github.com/roffun/fancyboxes
+ * @author  Roffun
+ * @copyright Copyright (c) Roffun | https://github.com/Roffun/fancyboxes
  * @license BSD
  */
 defined('COT_CODE') or die('Wrong URL.');

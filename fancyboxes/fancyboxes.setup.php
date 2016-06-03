@@ -6,9 +6,9 @@ Name=FancyBoxes
 Category=files-media
 Description=FancyBoxes - галерея на базе JQuery + fancyBox и jScale Image Scaler
 Version=1.1 
-Date=28-06-2015( обновлено <i>20.12.2015</i> )
+Date=28-06-2015( обновлено <i>03.06.2016</i> )
 Author=roffun
-Copyright=Copyright (c) 2015 vseweb.com
+Copyright=Copyright (c) 2015 - today Roffun | https://github.com/Roffun/fancyboxes
 Notes=BSD License
 Auth_guests=R
 Lock_guests=W12345A
@@ -30,8 +30,8 @@ css=99:radio:0,1:1:Enable plugin CSS
 /**
  * fancyBoxes plugin
  *
- * @author roffun
- * @copyright (c) 2015 vseweb.com
+ * @author  Roffun
+ * @copyright Copyright (c) Roffun | https://github.com/Roffun/fancyboxes
  * @license BSD
  */
 
