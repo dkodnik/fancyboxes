@@ -5,4 +5,6 @@
 
 Подробное описание: https://github.com/Roffun/fancyboxes/wiki/Описание-плагина-fancyboxes
 
+<a href="https://edimka.net/salads/fish-salads/salat-strely-amura">Пример работы плагина с галереей изображений</a>
+
 Copyright (c) 2015 - today Roffun
