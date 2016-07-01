@@ -3,6 +3,6 @@
 
 <p>Плагин fancyboxes включает в себя несколько скриптов, с помощью которых просмотр изображений и мультимедийных файлов (флеш игры, видео и тд) становится увлекательным и интуитивно понятным.</p>
 
-Подробное описание: https://vseweb.com/cotonti/extensions/fancyboxes-plugin-cotonti
+Подробное описание: https://github.com/Roffun/fancyboxes/wiki/Описание-плагина-fancyboxes
 
 Copyright (c) 2015 - today Roffun
