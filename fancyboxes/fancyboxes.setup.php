@@ -22,8 +22,8 @@ f_scalewpx=02:string::200:
 f_scalehpx=03:string:::
 f_scalelspx=04:string:::
 f_choose=97:select:fgallery,fbuttons,fthumbs:fgallery: 
-f_nomainjs=98:radio:0,1:1:Disable js on main
-css=99:radio:0,1:1:Enable plugin CSS
+f_nomainjs=98:radio::1:Disable js on main
+css=99:radio::1:Enable plugin CSS
 [END_COT_EXT_CONFIG]
 ==================== */
 
